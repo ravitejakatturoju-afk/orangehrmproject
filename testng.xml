@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OrangeHRM Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.orangehrm.tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Dashboard Tests">
+        <classes>
+            <class name="com.orangehrm.tests.DashboardTest"/>
+        </classes>
+    </test>
+    <test name="Employee Tests">
+        <classes>
+            <class name="com.orangehrm.tests.EmployeeTest"/>
+        </classes>
+    </test>
+</suite>

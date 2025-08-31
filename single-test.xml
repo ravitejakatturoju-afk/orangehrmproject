@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Complete Flow Test">
+    <test name="Single Complete Flow">
+        <classes>
+            <class name="com.orangehrm.tests.CompleteFlowTest"/>
+        </classes>
+    </test>
+</suite>
